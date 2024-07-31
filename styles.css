@@ -1,1 +1,7 @@
-/*  your css code here. If applicable */
+.box{
+	height:100px;
+	width:100px;
+	background-color: red;
+	animation: pulse;
+	animation-timeline: 1sec;
+}
